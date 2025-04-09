@@ -1,3 +1,7 @@
+<a href="Abhijeet_Priveen_Resume.pdf" download style="float: right; background-color: #007acc; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: bold;">
+  📄 Download CV
+</a>
+
 # Abhijeet Praveen
 
 📞 +1 (514) 709-4324  
