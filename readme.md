@@ -70,7 +70,7 @@ May 2022 – May 2023
 - **Built with:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-000000?logo=flask&logoColor=white)
 
 ### [Gympose](https://devpost.com/software/gympose)  
-*Devpost Hackathon – Oct 2022*  
+*McGill AI Society Hackathon – Oct 2022*  
 - AI web tool for activity recognition and gym exercise guidance.  
 - Uses pose estimation with CNN and LSTM models.  
 - 🏆 *People’s Choice Award for Best Hack*  
