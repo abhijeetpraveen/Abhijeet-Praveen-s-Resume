@@ -9,7 +9,7 @@
 
 📞 +1 (514) 709-4324  
 📧 [abhijeet.praveen@mail.mcgill.ca](mailto:abhijeet.praveen@mail.mcgill.ca)  
-🌐 [LinkedIn](https://www.linkedin.com/in/abhijeetpraveen) | [GitHub](https://github.com/abhijeetpraveen)  
+🌐 [LinkedIn](https://www.linkedin.com/in/abhijeetpraveen) | [GitHub](https://github.com/abhijeetpraveen)  | [Website](https://www.abhijeetpraveen.com)  
 📍 Montreal, QC, Canada  
 
 ---
