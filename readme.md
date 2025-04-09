@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/abhijeetpraveen/Abhijeet-Praveen-s-Resume/raw/1922602767c6f72aa4b60752ad130d5c623cee37/Abhijeet%20Praveen's%20Resume.pdf" download>
-    <img src="https://img.shields.io/badge/PDF%20Version-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Version">
+    <img src="https://img.shields.io/badge/Download%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Version">
   </a>
 </p>
 
